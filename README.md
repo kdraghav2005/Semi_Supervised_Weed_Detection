@@ -137,15 +137,6 @@ This work demonstrates how **deep learning and semi-supervised learning** can re
 ![output_image10](https://github.com/user-attachments/assets/7129751a-cdf2-4709-b6ec-e74a7feb6646)
 
 
-## **How to Run**
-### **1. Clone the Repository**
-```bash
-https://github.com/DataWorshipper/12_Semi-Supervised-Weed-Detection.git
-cd weed-detection-yolov9
-```
 ## **Authors**
-- [Abhiraj Mandal](https://github.com/DataWorshipper)
-- [Abhi Tanwar](https://github.com/abhitan007)
-- [Arnav Gupta](https://github.com/arnav0103)
-- [Tushay Gupta](https://github.com/Skidzomaniac)
-- [Mit Narodia](https://github.com/MitNarodia)
+- [Raghav Kapoor](https://github.com/kdraghav2005)
+
